@@ -1,3 +1,13 @@
+# Author: Ivo Kubjas
+# BSD 2-Clause License
+# 2014
+
+"""
+Library for replicating the results in my Master's Thesis titled
+                              Set Reconciliation
+by Ivo Kubjas, University of Tartu
+"""
+
 import networkx as nx
 import random
 import pylab
